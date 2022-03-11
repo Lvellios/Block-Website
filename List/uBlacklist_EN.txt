@@ -1,0 +1,5 @@
+*://*.quora.com/*
+*://*.gizmochina.com/*
+*://*.zaobao.com/*
+*://*.zaobao.com.sg/*
+*://*.sinovision.net/*
