@@ -1,3 +1,4 @@
+*://*.bing.com/*
 *://*.quora.com/*
 *://*.gizmochina.com/*
 *://*.zaobao.com/*
