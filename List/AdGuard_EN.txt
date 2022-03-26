@@ -1,5 +1,5 @@
-||bing.com
-||.bing.com
+||bing123.com
+||.bing123.com
 ||quora.com
 ||.quora.com
 ||gizmochina.com^
