@@ -1,3 +1,7 @@
+*://*.eeo.com.cn/*
+*://*.nbd.com.cn/*
+*://*.xiaohongshu.com/*
+*://*.techweb.com.cn/*
 *://*.hstong.com/*
 *://*.wallstreetcn.com/*
 *://*.stcn.com/*
