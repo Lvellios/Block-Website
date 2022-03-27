@@ -1,7 +1,11 @@
-||xiaohongshu.com
-||.xiaohongshu.com
-||techweb.com.cn
-||.techweb.com.cn
+||eeo.com.cn^
+||.eeo.com.cn^
+||nbd.com.cn^
+||.nbd.com.cn^
+||xiaohongshu.com^
+||.xiaohongshu.com^
+||techweb.com.cn^
+||.techweb.com.cn^
 ||hstong.com^
 ||.hstong.com^
 ||wallstreetcn.com^
