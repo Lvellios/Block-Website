@@ -1,3 +1,5 @@
+*://*.jrj.com.cn/*
+*://*.qlwb.com.cn/*
 *://*.eeo.com.cn/*
 *://*.nbd.com.cn/*
 *://*.xiaohongshu.com/*
