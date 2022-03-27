@@ -1,3 +1,7 @@
+||jrj.com.cn^
+||.jrj.com.cn^
+||qlwb.com.cn^
+||.qlwb.com.cn^
 ||eeo.com.cn^
 ||.eeo.com.cn^
 ||nbd.com.cn^
