@@ -1,3 +1,5 @@
+||china-embassy.org^
+||.china-embassy.org^
 ||jrj.com.cn^
 ||.jrj.com.cn^
 ||qlwb.com.cn^

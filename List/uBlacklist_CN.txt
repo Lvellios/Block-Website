@@ -1,3 +1,4 @@
+*://*.china-embassy.org/*
 *://*.jrj.com.cn/*
 *://*.qlwb.com.cn/*
 *://*.eeo.com.cn/*
