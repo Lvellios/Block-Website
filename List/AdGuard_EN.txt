@@ -1,7 +1,9 @@
-||bing123.com
-||.bing123.com
-||quora.com
-||.quora.com
+||gaofengadv.com^
+||.gaofengadv.com^
+||bing123.com^
+||.bing123.com^
+||quora.com^
+||.quora.com^
 ||gizmochina.com^
 ||.gizmochina.com^
 ||zaobao.com^

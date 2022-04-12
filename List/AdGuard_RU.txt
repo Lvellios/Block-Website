@@ -1,2 +1,2 @@
-||themoscowtimes.com
-||.themoscowtimes.com
+||themoscowtimes.com^
+||.themoscowtimes.com^

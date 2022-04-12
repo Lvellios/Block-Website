@@ -1,3 +1,4 @@
+*://*.gaofengadv.com/*
 *://*.bing123.com/*
 *://*.quora.com/*
 *://*.gizmochina.com/*
