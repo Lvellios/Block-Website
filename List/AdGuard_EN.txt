@@ -1,5 +1,9 @@
 ||gaofengadv.com^
 ||.gaofengadv.com^
+||a-msedge.net^
+||.a-msedge.net^
+||bing.net^
+||.bing.net^
 ||bing123.com^
 ||.bing123.com^
 ||quora.com^
