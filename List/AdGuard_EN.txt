@@ -1,3 +1,5 @@
+||medium.com^
+||.medium.com^
 ||gaofengadv.com^
 ||.gaofengadv.com^
 ||a-msedge.net^
