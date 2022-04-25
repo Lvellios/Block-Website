@@ -1,3 +1,4 @@
+*://*.china.org.cn/*
 *://*.careerengine.us/*
 *://*.china-embassy.org/*
 *://*.jrj.com.cn/*
