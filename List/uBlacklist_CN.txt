@@ -1,3 +1,4 @@
+*://*.80wzbk.com/*
 *://*.wanweicidian.com/*
 *://*.moegirl.org.cn/*
 *://*.china.org.cn/*
