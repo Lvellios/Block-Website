@@ -1,3 +1,4 @@
+*://*.a-hospital.com/*
 *://*.80wzbk.com/*
 *://*.wanweicidian.com/*
 *://*.moegirl.org.cn/*
