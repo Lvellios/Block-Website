@@ -1,5 +1,9 @@
-||china.org.cn
-||.china.org.cn
+||wanweicidian.com^
+||.wanweicidian.com^
+||moegirl.org.cn^
+||.moegirl.org.cn^
+||china.org.cn^
+||.china.org.cn^
 ||careerengine.us^
 ||.careerengine.us^
 ||china-embassy.org^
