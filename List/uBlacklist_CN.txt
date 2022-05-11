@@ -1,3 +1,5 @@
+*://*.wanweicidian.com/*
+*://*.moegirl.org.cn/*
 *://*.china.org.cn/*
 *://*.careerengine.us/*
 *://*.china-embassy.org/*
