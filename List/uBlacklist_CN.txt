@@ -1,3 +1,13 @@
+*://*.cn/*
+*://*.mcmod.cn/*
+*://*.ruoji.cn/*
+*://*.kepuchina.cn/*
+*://*.mbalib.com/*
+*://*.baikemy.com/*
+*://*.cnki.net/*
+*://*.baike.so.com/*
+*://*.baike.sogou.com/*
+*://*.baike.com/*
 *://*.143k.com/*
 *://*.xzzzseo.com/*
 *://*.zwbk.org/*
