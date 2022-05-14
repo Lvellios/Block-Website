@@ -1,6 +1,4 @@
 *://*.cn/*
-*://*.studiodahu.com/*
-*://*.wiki.hk.wjbk.site/*
 *://*.mcmod.cn/*
 *://*.ruoji.cn/*
 *://*.kepuchina.cn/*
