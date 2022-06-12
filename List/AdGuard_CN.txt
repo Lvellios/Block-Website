@@ -78,14 +78,8 @@
 ||.news.qq.com^
 ||xw.qq.com^
 ||.xw.qq.com^
-||wenku.baidu.com^
-||.wenku.baidu.com^
-||news.baidu.com^
-||.news.baidu.com^
-||tieba.baidu.com^
-||.tieba.baidu.com^
-||baike.baidu.com^
-||.baike.baidu.com^
+||baidu.com^
+||.baidu.com^
 ||zhihu.com^
 ||.zhihu.com^
 ||xhby.net^

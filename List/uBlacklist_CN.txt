@@ -207,7 +207,6 @@
 *://*.gucheng.com/*
 *://*.51.ca/*
 *://*.mbalib.com/*
-*://*.baidu.com/*
 *://*.so.com/*
 *://*.sogou.com/*
 *://*.360.com/*
@@ -229,7 +228,6 @@
 *://*.chinaso.com/*
 *://*.bdimg.com/*
 *://*.baike.com/*
-*://*.baike.baidu.com/*
 *://*.gov.cn/*
 *://*.jstv.com/*
 *://*.guilinlife.com/*
