@@ -1,4 +1,5 @@
 *://*.cn/*
+*://*.dailyqd.com/*
 *://*.mcmod.cn/*
 *://*.ruoji.cn/*
 *://*.kepuchina.cn/*
