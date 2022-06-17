@@ -1,3 +1,7 @@
+||vankeweekly.com^
+||.vankeweekly.com^
+||12333.org^
+||.12333.org^
 ||dailyqd.com^
 ||.dailyqd.com^
 ||mcmod.cn^
