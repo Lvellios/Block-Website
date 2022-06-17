@@ -1,4 +1,6 @@
 *://*.cn/*
+*://*.vankeweekly.com/*
+*://*.12333.org/*
 *://*.dailyqd.com/*
 *://*.mcmod.cn/*
 *://*.ruoji.cn/*
