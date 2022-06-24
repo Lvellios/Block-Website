@@ -1,4 +1,9 @@
 *://*.cn/*
+*://*.yixieshi.com/*
+*://*.h5w3.com/*
+*://*.huaweicloud.com/*
+*://*.wenku.so.com/*
+*://*.wordpresshy.com/*
 *://*.vankeweekly.com/*
 *://*.12333.org/*
 *://*.dailyqd.com/*
