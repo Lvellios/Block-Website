@@ -1,3 +1,7 @@
+||independent.co.uk
+||.independent.co.uk
+||gotoquiz.com^
+||.gotoquiz.com^
 ||medium.com^
 ||.medium.com^
 ||gaofengadv.com^
