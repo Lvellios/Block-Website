@@ -1,5 +1,9 @@
+*://*.independent.co.uk/*
+*://*.gotoquiz.com/*
+*://*.medium.com/*
 *://*.gaofengadv.com/*
-*://*.bing123.com/*
+*://*.a-msedge.net/*
+*://*.gaofengadv.com/*
 *://*.quora.com/*
 *://*.gizmochina.com/*
 *://*.zaobao.com/*
