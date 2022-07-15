@@ -1,3 +1,4 @@
+*://*.pornhub.com/*
 *://*.independent.co.uk/*
 *://*.gotoquiz.com/*
 *://*.medium.com/*
