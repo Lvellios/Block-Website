@@ -1,4 +1,5 @@
 *://*.cn/*
+*://*.xiaodutv.com/*
 *://*.qidian.com/*
 *://*.yixieshi.com/*
 *://*.h5w3.com/*
