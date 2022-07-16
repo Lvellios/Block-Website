@@ -1,5 +1,7 @@
 ||oppo.com^
 ||.oppo.com^
+||coloros.com^
+||.coloros.com^
 ||opposhop.cn^
 ||.opposhop.cn^
 ||vivo.com.cn^
