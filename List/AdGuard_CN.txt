@@ -1,3 +1,13 @@
+||nubia.com^
+||.nubia.com^
+||redmagic.com^
+||.redmagic.com^
+||huawei.com^
+||.huawei.com^
+||hihonor.com^
+||.hihonor.com^
+||vmall.com^
+||.vmall.com^
 ||oppo.com^
 ||.oppo.com^
 ||coloros.com^
@@ -8,6 +18,8 @@
 ||.vivo.com^
 ||vivo.com.cn^
 ||.vivo.com.cn^
+||realme.com^
+||.realme.com^
 ||bbk.com^
 ||.bbk.com^
 ||yixieshi.com^
