@@ -4,6 +4,8 @@
 ||.coloros.com^
 ||opposhop.cn^
 ||.opposhop.cn^
+||vivo.com^
+||.vivo.com^
 ||vivo.com.cn^
 ||.vivo.com.cn^
 ||bbk.com^
