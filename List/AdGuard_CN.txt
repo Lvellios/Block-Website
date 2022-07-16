@@ -1,3 +1,13 @@
+||peopleapp.com^
+||.peopleapp.com^
+||zgjsks.com^
+||.zgjsks.com^
+||x-mol.com^
+||.x-mol.com^
+||huanqiukexue.com^
+||.huanqiukexue.com^
+||itpub.net^
+||.itpub.net^
 ||nubia.com^
 ||.nubia.com^
 ||redmagic.com^
