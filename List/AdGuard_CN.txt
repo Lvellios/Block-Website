@@ -1,3 +1,11 @@
+||oppo.com^
+||.oppo.com^
+||opposhop.cn^
+||.opposhop.cn^
+||vivo.com.cn^
+||.vivo.com.cn^
+||bbk.com^
+||.bbk.com^
 ||yixieshi.com^
 ||.yixieshi.com^
 ||h5w3.com^
