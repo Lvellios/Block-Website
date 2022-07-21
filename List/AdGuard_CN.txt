@@ -1,3 +1,5 @@
+||msn.cn^
+||.msn.cn^
 ||hspress.net^
 ||.hspress.net^
 ||peopleapp.com^
